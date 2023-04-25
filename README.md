@@ -1,6 +1,6 @@
 # SR-GNN
 This is the PyTorch implementation of the Semantic and Relational-based Graph Neural Network (SR-GNN) for Knowledge Graph Completion task, as described in our paper:
-
+![](https://github.com/315TYJ/SR-GNN/blob/main/SR-GNN.png)
 ## Dependencies
 
 PyTorch >= 1.9.0 <br>
