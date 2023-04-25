@@ -18,9 +18,6 @@ Hydra >= 1.1.1 (for project configuration)
   * config.yaml: project configurations and general parameters <br>
   * dataset/FB15k_237.yaml: best hyper-parameters for FB15k-237 dataset <br>
   * dataset/WN18RR.yaml: best hyper-parameters for WN18RR dataset <br>
-* drawing/: includes materials to re-draw the paper figs. <br>
-  * data_analyse.py: drawing code <br>
-  * FB15k_237/ and WN18RR/: includes computed Semantic Evidence metrics data2metrics and reproduced baseline prediction xx_rank. More details can be found in our paper. <br>
 ## Model Training
 ```Python 
 # enter the project directory
