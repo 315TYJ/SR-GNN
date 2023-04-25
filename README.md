@@ -22,6 +22,7 @@ Hydra >= 1.1.1 (for project configuration)
 ```Python 
 # enter the project directory
 cd SR-GNN-main
+
 # FB15k-237
 # set the config/config.yaml `project_dir` field to your own project path
 cd FB15K-237
